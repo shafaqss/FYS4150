@@ -1,4 +1,6 @@
-## Project 5 - Diffusion equation
+# FYS4150 Project 5
+
+### The Diffusion Equation in One and Two Dimensions
 
 Information about scripts:
 
