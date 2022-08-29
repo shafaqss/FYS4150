@@ -1,4 +1,3 @@
-# FYS4150-H20_project1
+# FYS4150 Project 1 
 
-
-
+### Poisson's Equation in One Dimension
